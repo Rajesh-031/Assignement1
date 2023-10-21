@@ -1,2 +1,3 @@
-# Assignement1
+# Assignment1
 Python Assignment1 
+Rajesh Nimbalkar
